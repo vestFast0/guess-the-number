@@ -1,0 +1,15 @@
+C:\Users\danial\Desktop\guess-the-number\csharp\guessthenumber\bin\Debug\net8.0\guessthenumber.exe
+C:\Users\danial\Desktop\guess-the-number\csharp\guessthenumber\bin\Debug\net8.0\guessthenumber.deps.json
+C:\Users\danial\Desktop\guess-the-number\csharp\guessthenumber\bin\Debug\net8.0\guessthenumber.runtimeconfig.json
+C:\Users\danial\Desktop\guess-the-number\csharp\guessthenumber\bin\Debug\net8.0\guessthenumber.dll
+C:\Users\danial\Desktop\guess-the-number\csharp\guessthenumber\bin\Debug\net8.0\guessthenumber.pdb
+C:\Users\danial\Desktop\guess-the-number\csharp\guessthenumber\obj\Debug\net8.0\guessthenumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danial\Desktop\guess-the-number\csharp\guessthenumber\obj\Debug\net8.0\guessthenumber.AssemblyInfoInputs.cache
+C:\Users\danial\Desktop\guess-the-number\csharp\guessthenumber\obj\Debug\net8.0\guessthenumber.AssemblyInfo.cs
+C:\Users\danial\Desktop\guess-the-number\csharp\guessthenumber\obj\Debug\net8.0\guessthenumber.csproj.CoreCompileInputs.cache
+C:\Users\danial\Desktop\guess-the-number\csharp\guessthenumber\obj\Debug\net8.0\guessthenumber.sourcelink.json
+C:\Users\danial\Desktop\guess-the-number\csharp\guessthenumber\obj\Debug\net8.0\guessthenumber.dll
+C:\Users\danial\Desktop\guess-the-number\csharp\guessthenumber\obj\Debug\net8.0\refint\guessthenumber.dll
+C:\Users\danial\Desktop\guess-the-number\csharp\guessthenumber\obj\Debug\net8.0\guessthenumber.pdb
+C:\Users\danial\Desktop\guess-the-number\csharp\guessthenumber\obj\Debug\net8.0\guessthenumber.genruntimeconfig.cache
+C:\Users\danial\Desktop\guess-the-number\csharp\guessthenumber\obj\Debug\net8.0\ref\guessthenumber.dll
